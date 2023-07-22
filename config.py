@@ -1,0 +1,2 @@
+TOKEN="6277782761:AAHp2RDU2wSo7aLbW02pPZVp_iZvR8B1qvU"
+BD="sqlite:///db.db"
